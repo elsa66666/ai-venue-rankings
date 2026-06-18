@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI Venue Rankings</title>
+    <link rel="stylesheet" href="assets/style.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div>
+        <p class="eyebrow">Static research venue database</p>
+        <h1>AI Venue Rankings</h1>
+        <p class="subtitle">Conference deadlines, CCF rankings, journal partitions, and submission information</p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="notice" aria-label="Data freshness notice">
+        Ranking and partition information may change over time. Please verify with official CCF, CAS, JCR, and venue websites before submission.
+      </section>
+
+      <section class="controls" aria-label="Venue controls">
+        <div class="tabs" role="tablist" aria-label="Venue type">
+          <button class="tab active" data-tab="all" type="button">All</button>
+          <button class="tab" data-tab="conference" type="button">Conferences</button>
+          <button class="tab" data-tab="journal" type="button">Journals</button>
+        </div>
+
+        <div class="search-row">
+          <label class="search-label" for="searchInput">Search</label>
+          <input id="searchInput" type="search" placeholder="Search abbreviation, full name, field, note, publisher, or location">
+          <button id="viewToggle" class="secondary-button" type="button" aria-pressed="false">Card view</button>
+        </div>
+
+        <div class="filter-grid">
+          <label>
+            Type
+            <select id="typeFilter">
+              <option value="">All</option>
+              <option value="conference">Conference</option>
+              <option value="journal">Journal</option>
+            </select>
+          </label>
+          <label>
+            Field
+            <select id="fieldFilter">
+              <option value="">All</option>
+            </select>
+          </label>
+          <label>
+            CCF rank
+            <select id="ccfFilter">
+              <option value="">All</option>
+              <option>A</option>
+              <option>B</option>
+              <option>C</option>
+              <option>None</option>
+              <option>Unknown</option>
+            </select>
+          </label>
+          <label>
+            JCR quartile
+            <select id="jcrFilter">
+              <option value="">All</option>
+              <option>Q1</option>
+              <option>Q2</option>
+              <option>Q3</option>
+              <option>Q4</option>
+              <option>Unknown</option>
+            </select>
+          </label>
+          <label>
+            CAS partition
+            <select id="casFilter">
+              <option value="">All</option>
+              <option>1区</option>
+              <option>2区</option>
+              <option>3区</option>
+              <option>4区</option>
+              <option>Unknown</option>
+            </select>
+          </label>
+          <label>
+            Sort by
+            <select id="sortSelect">
+              <option value="deadline">Deadline</option>
+              <option value="ccf">CCF rank</option>
+              <option value="abbr">Abbreviation</option>
+              <option value="impact">Impact factor</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="check-row">
+          <label><input id="upcomingOnly" type="checkbox"> Upcoming deadline only</label>
+          <label><input id="rollingOnly" type="checkbox"> Rolling submission only</label>
+        </div>
+      </section>
+
+      <section class="summary" aria-live="polite">
+        <strong id="resultCount">0</strong> venues shown
+      </section>
+
+      <section id="tableView" class="table-wrap" aria-label="Venue table">
+        <table>
+          <thead>
+            <tr>
+              <th>Type</th>
+              <th>Abbr</th>
+              <th>Full Name</th>
+              <th>Field</th>
+              <th>CCF</th>
+              <th>Deadline / Submission</th>
+              <th>Partition / JCR</th>
+              <th>Website</th>
+              <th>Note</th>
+            </tr>
+          </thead>
+          <tbody id="venueTable"></tbody>
+        </table>
+      </section>
+
+      <section id="cardView" class="card-grid hidden" aria-label="Venue cards"></section>
+
+      <section id="emptyState" class="empty hidden">
+        No venues match the current filters.
+      </section>
+    </main>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>
