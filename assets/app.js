@@ -128,7 +128,7 @@ function renderTable() {
       <td>${dateCell(venue, "notification_date")}</td>
       <td>${partitionBadges(venue)}</td>
       <td>${impactText(venue)}</td>
-      <td><a href="${escapeAttr(venue.website)}" target="_blank" rel="noopener">Official</a></td>
+      <td><a href="${escapeAttr(venue.website)}" target="_blank" rel="noopener">Link</a></td>
       <td>${escapeHtml(venue.note || "")}</td>
     </tr>
   `).join("");
@@ -153,7 +153,7 @@ function renderCards() {
         <span><strong>Notification:</strong> ${dateCell(venue, "notification_date")}</span>
         <span><strong>Partition / JCR:</strong> ${partitionBadges(venue)}</span>
         <span><strong>Impact factor:</strong> ${impactText(venue)}</span>
-        <span><a href="${escapeAttr(venue.website)}" target="_blank" rel="noopener">Official website</a></span>
+        <span><a href="${escapeAttr(venue.website)}" target="_blank" rel="noopener">Venue link</a></span>
       </div>
       <p>${escapeHtml(venue.note || "")}</p>
     </article>

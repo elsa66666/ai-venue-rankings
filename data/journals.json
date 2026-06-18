@@ -1,397 +1,5261 @@
 [
   {
     "type": "journal",
-    "abbr": "TPAMI",
-    "full_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "abbr": "TOCS",
+    "full_name": "ACM Transactions on Computer Systems",
     "field": [
-      "CV",
-      "AI"
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
     ],
     "ccf_rank": "A",
-    "cas_partition": "1区",
-    "jcr_quartile": "Q1",
-    "impact_factor": "18.6",
-    "publisher": "IEEE",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.8",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34",
+    "website": "http://dblp.uni-trier.de/db/journals/tocs/",
     "warning": "No",
-    "note": "Top journal in computer vision and pattern recognition."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
-    "abbr": "IJCV",
-    "full_name": "International Journal of Computer Vision",
+    "abbr": "TOS",
+    "full_name": "ACM Transactions on Storage",
     "field": [
-      "CV",
-      "AI"
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tos/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TCAD",
+    "full_name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tcad/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TC",
+    "full_name": "IEEE Transactions on Computers",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tc/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TPDS",
+    "full_name": "IEEE Transactions on Parallel and Distributed Systems",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
     ],
     "ccf_rank": "A",
     "cas_partition": "2区",
     "jcr_quartile": "Q1",
-    "impact_factor": "9.3",
-    "publisher": "Springer",
+    "impact_factor": "6",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://link.springer.com/journal/11263",
+    "website": "http://dblp.uni-trier.de/db/journals/tpds/",
     "warning": "No",
-    "note": "Computer vision journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
-    "abbr": "TIP",
-    "full_name": "IEEE Transactions on Image Processing",
+    "abbr": "TACO",
+    "full_name": "ACM Transactions on Architecture and Code Optimization",
     "field": [
-      "CV",
-      "Multimedia"
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/taco/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TAAS",
+    "full_name": "ACM Transactions on Autonomous and Adaptive Systems",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/taas/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TODAES",
+    "full_name": "ACM Transactions on Design Automation of Electronic Systems",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/todaes/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TECS",
+    "full_name": "ACM Transactions on Embedded Computing Systems",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tecs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TRETS",
+    "full_name": "ACM Transactions on Reconfigurable Technology and Systems",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/trets/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TVLSI",
+    "full_name": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tvlsi/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JPDC",
+    "full_name": "Journal of Parallel and Distributed Computing",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jpdc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JSA",
+    "full_name": "Journal of Systems Architecture: Embedded Software Design",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jsa/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "PC",
+    "full_name": "Parallel Computing",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/pc/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "PEIJ",
+    "full_name": "Performance Evaluation: An International Journal",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/pe/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TCC",
+    "full_name": "IEEE Transactions on Cloud Computing",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/tcc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JETC",
+    "full_name": "ACM Journal on Emerging Technologies in Computing Systems",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jetc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CCPE",
+    "full_name": "Concurrency and Computation: Practice and Experience",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/concurrency/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "DC",
+    "full_name": "Distributed Computing",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/dc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "FGCS",
+    "full_name": "Future Generation Computer Systems",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/fgcs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "Integration",
+    "full_name": "Integration, the VLSI Journal",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/integration/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JETTA",
+    "full_name": "Journal of Electronic Testing-Theory and Applications",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "1.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/et/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JGC",
+    "full_name": "The Journal of Grid computing",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://link.springer.com/journal/10723",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "RTS",
+    "full_name": "Real-Time Systems",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/rts/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TJSC",
+    "full_name": "The Journal of Supercomputing",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tjs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TCASI",
+    "full_name": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/tcasI/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CCF-THPC",
+    "full_name": "CCF Transactions on High Performance Computing",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/ccfthpc/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TSUSC",
+    "full_name": "IEEE Transactions on Sustainable Computing",
+    "field": [
+      "计算机体系结构",
+      "并行与分布计算",
+      "存储系统"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "3.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/tsusc/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JSAC",
+    "full_name": "IEEE Journal on Selected Areas in Communications",
+    "field": [
+      "计算机网络"
     ],
     "ccf_rank": "A",
     "cas_partition": "1区",
     "jcr_quartile": "Q1",
-    "impact_factor": "13.7",
-    "publisher": "IEEE",
+    "impact_factor": "17.2",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83",
+    "website": "http://dblp.uni-trier.de/db/journals/jsac/",
     "warning": "No",
-    "note": "Image processing journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
-    "abbr": "TNNLS",
-    "full_name": "IEEE Transactions on Neural Networks and Learning Systems",
+    "abbr": "TMC",
+    "full_name": "IEEE Transactions on Mobile Computing",
     "field": [
-      "ML",
-      "AI"
+      "计算机网络"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tmc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TON",
+    "full_name": "IEEE Transactions on Networking",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ton/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOIT",
+    "full_name": "ACM Transactions on Internet Technology",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/toit/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOMM",
+    "full_name": "ACM Transactions on Multimedia Computing, Communications and Applications",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tomccap/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOSN",
+    "full_name": "ACM Transactions on Sensor Networks",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tosn/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CN",
+    "full_name": "Computer Networks",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cn/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TCOM",
+    "full_name": "IEEE Transactions on Communications",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "8.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tcom/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TWC",
+    "full_name": "IEEE Transactions on Wireless Communications",
+    "field": [
+      "计算机网络"
     ],
     "ccf_rank": "B",
     "cas_partition": "1区",
     "jcr_quartile": "Q1",
-    "impact_factor": "8.9",
-    "publisher": "IEEE",
+    "impact_factor": "10.7",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385",
+    "website": "http://dblp.uni-trier.de/db/journals/twc/",
     "warning": "No",
-    "note": "Neural networks and learning systems journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
-    "abbr": "TKDE",
-    "full_name": "IEEE Transactions on Knowledge and Data Engineering",
+    "abbr": "AHN",
+    "full_name": "Ad hoc Networks",
     "field": [
-      "DB",
-      "DM"
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/adhoc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CC",
+    "full_name": "Computer Communications",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "4.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/comcom/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TNSM",
+    "full_name": "IEEE Transactions on Network and Service Management",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tnsm/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IC",
+    "full_name": "IET Communications",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/iet-com/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JNCA",
+    "full_name": "Journal of Network and Computer Applications",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jnca/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "MONET",
+    "full_name": "Mobile Networks and Applications",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/monet/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "N",
+    "full_name": "Networks",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "1.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/networks/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "PPNA",
+    "full_name": "Peer-to-Peer Networking and Applications",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ppna/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "WCMC",
+    "full_name": "Wireless Communications and Mobile Computing",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/wicomm/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "WN",
+    "full_name": "Wireless Networks",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/winet/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IOT",
+    "full_name": "IEEE Internet of Things Journal",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "8.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/iotj/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TIOT",
+    "full_name": "ACM Transactions on Internet of Things",
+    "field": [
+      "计算机网络"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/tiot/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TDSC",
+    "full_name": "IEEE Transactions on Dependable and Secure Computing",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "7.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tdsc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TIFS",
+    "full_name": "IEEE Transactions on Information Forensics and Security",
+    "field": [
+      "网络与信息安全"
     ],
     "ccf_rank": "A",
     "cas_partition": "1区",
     "jcr_quartile": "Q1",
-    "impact_factor": "10.4",
-    "publisher": "IEEE",
+    "impact_factor": "8",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69",
+    "website": "http://dblp.uni-trier.de/db/journals/tifs/",
     "warning": "No",
-    "note": "Knowledge and data engineering journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JC",
+    "full_name": "Journal of Cryptology",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "2.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/joc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOPS",
+    "full_name": "ACM Transactions on Privacy and Security",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/tissec/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CS",
+    "full_name": "Computers & Security",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/compsec/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "DCC",
+    "full_name": "Designs, Codes and Cryptography",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/dcc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JCS",
+    "full_name": "Journal of Computer Security",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jcs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "Cybersecurity",
+    "full_name": "Cybersecurity",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "3.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/cybersec/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CLSR",
+    "full_name": "Computer Law & Security Review",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "3.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/clsr/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "EJIS",
+    "full_name": "EURASIP Journal on Information Security",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ejisec/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IIS",
+    "full_name": "IET Information Security",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/iet-ifs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IMCS",
+    "full_name": "Information and Computer Security",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/imcs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJICS",
+    "full_name": "International Journal of Information and Computer Security",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijics/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJISP",
+    "full_name": "International Journal of Information Security and Privacy",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijisp/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JISA",
+    "full_name": "Journal of Information Security and Applications",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/istr/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SCN",
+    "full_name": "Security and Communication Networks",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/scn/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "HCC",
+    "full_name": "High-Confidence Computing",
+    "field": [
+      "网络与信息安全"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://www.journals.elsevier.com/high-confidence-computing",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOPLAS",
+    "full_name": "ACM Transactions on Programming Languages and Systems",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/toplas/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOSEM",
+    "full_name": "ACM Transactions on Software Engineering and Methodology",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tosem/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TSE",
+    "full_name": "IEEE Transactions on Software Engineering",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tse/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TSC",
+    "full_name": "IEEE Transactions on Services Computing",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tsc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "ASE",
+    "full_name": "Automated Software Engineering",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ase/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "ESE",
+    "full_name": "Empirical Software Engineering",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "3.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ese/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IETS",
+    "full_name": "IET Software",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/iet-sen",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IST",
+    "full_name": "Information and Software Technology",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/infsof/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JFP",
+    "full_name": "Journal of Functional Programming",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jfp/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JSEP",
+    "full_name": "Journal of Software: Evolution and Process",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/smr/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JSS",
+    "full_name": "Journal of Systems and Software",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jss/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "RE",
+    "full_name": "Requirements Engineering",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/re/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SCP",
+    "full_name": "Science of Computer Programming",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/scp/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SoSyM",
+    "full_name": "Software and Systems Modeling",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/sosym/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "STVR",
+    "full_name": "Software Testing, Verification and Reliability",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/stvr/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SPE",
+    "full_name": "Software: Practice and Experience",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/spe/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CL",
+    "full_name": "Computer Languages, Systems and Structures",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cl/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJSEKE",
+    "full_name": "International Journal of Software Engineering and Knowledge Engineering",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijseke/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "STTT",
+    "full_name": "International Journal of Software Tools for Technology Transfer",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/sttt/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JLAMP",
+    "full_name": "Journal of Logical and Algebraic Methods in Programming",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "1.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/jlap/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JWE",
+    "full_name": "Journal of Web Engineering",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jwe/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SOCA",
+    "full_name": "Service Oriented Computing and Applications",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "1.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/soca/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SQJ",
+    "full_name": "Software Quality Journal",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/sqj/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TPLP",
+    "full_name": "Theory and Practice of Logic Programming",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "1.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tplp/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "PACM PL",
+    "full_name": "Proceedings of the ACM on Programming Languages",
+    "field": [
+      "软件工程",
+      "系统软件",
+      "程序设计语言"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/pacmpl/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TODS",
+    "full_name": "ACM Transactions on Database Systems",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tods/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
     "abbr": "TOIS",
     "full_name": "ACM Transactions on Information Systems",
     "field": [
-      "IR",
-      "AI"
+      "数据库",
+      "数据挖掘",
+      "内容检索"
     ],
     "ccf_rank": "A",
     "cas_partition": "2区",
     "jcr_quartile": "Q1",
     "impact_factor": "9.1",
-    "publisher": "ACM",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://dl.acm.org/journal/tois",
+    "website": "http://dblp.uni-trier.de/db/journals/tois/",
     "warning": "No",
-    "note": "Information retrieval and information systems journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
-    "abbr": "JMLR",
-    "full_name": "Journal of Machine Learning Research",
+    "abbr": "TKDE",
+    "full_name": "IEEE Transactions on Knowledge and Data Engineering",
     "field": [
-      "ML",
-      "AI"
+      "数据库",
+      "数据挖掘",
+      "内容检索"
     ],
     "ccf_rank": "A",
-    "cas_partition": "4区",
+    "cas_partition": "1区",
     "jcr_quartile": "Q1",
-    "impact_factor": "5.2",
-    "publisher": "Microtome Publishing",
+    "impact_factor": "10.4",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://www.jmlr.org/",
+    "website": "http://dblp.uni-trier.de/db/journals/tkde/",
     "warning": "No",
-    "note": "Open-access machine learning journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
-    "abbr": "TACL",
-    "full_name": "Transactions of the Association for Computational Linguistics",
+    "abbr": "VLDBJ",
+    "full_name": "The VLDB Journal",
     "field": [
-      "NLP",
-      "AI"
-    ],
-    "ccf_rank": "B",
-    "cas_partition": "2区",
-    "jcr_quartile": "Q1",
-    "impact_factor": "6.9",
-    "publisher": "ACL",
-    "submission_mode": "rolling",
-    "website": "https://transacl.org/",
-    "warning": "No",
-    "note": "ACL journal for computational linguistics."
-  },
-  {
-    "type": "journal",
-    "abbr": "AIJ",
-    "full_name": "Artificial Intelligence",
-    "field": [
-      "AI"
+      "数据库",
+      "数据挖掘",
+      "内容检索"
     ],
     "ccf_rank": "A",
-    "cas_partition": "2区",
-    "jcr_quartile": "Q2",
-    "impact_factor": "4.6",
-    "publisher": "Elsevier",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://www.sciencedirect.com/journal/artificial-intelligence",
+    "website": "http://dblp.uni-trier.de/db/journals/vldb/",
     "warning": "No",
-    "note": "General artificial intelligence journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
-    "abbr": "KBS",
-    "full_name": "Knowledge-Based Systems",
+    "abbr": "TKDD",
+    "full_name": "ACM Transactions on Knowledge Discovery from Data",
     "field": [
-      "AI",
-      "DM"
-    ],
-    "ccf_rank": "C",
-    "cas_partition": "1区",
-    "jcr_quartile": "Q1",
-    "impact_factor": "7.6",
-    "publisher": "Elsevier",
-    "submission_mode": "rolling",
-    "website": "https://www.sciencedirect.com/journal/knowledge-based-systems",
-    "warning": "No",
-    "note": "Knowledge-based and intelligent systems journal."
-  },
-  {
-    "type": "journal",
-    "abbr": "INFFUS",
-    "full_name": "Information Fusion",
-    "field": [
-      "AI",
-      "ML"
-    ],
-    "ccf_rank": "None",
-    "cas_partition": "1区",
-    "jcr_quartile": "Q1",
-    "impact_factor": "15.5",
-    "publisher": "Elsevier",
-    "submission_mode": "rolling",
-    "website": "https://www.sciencedirect.com/journal/information-fusion",
-    "warning": "No",
-    "note": "Not found in the referenced 2026 CCF directory; kept as a non-CCF journal sample."
-  },
-  {
-    "type": "journal",
-    "abbr": "PR",
-    "full_name": "Pattern Recognition",
-    "field": [
-      "CV",
-      "AI"
+      "数据库",
+      "数据挖掘",
+      "内容检索"
     ],
     "ccf_rank": "B",
-    "cas_partition": "1区",
-    "jcr_quartile": "Q1",
-    "impact_factor": "7.6",
-    "publisher": "Elsevier",
-    "submission_mode": "rolling",
-    "website": "https://www.sciencedirect.com/journal/pattern-recognition",
-    "warning": "No",
-    "note": "Pattern recognition journal."
-  },
-  {
-    "type": "journal",
-    "abbr": "NN",
-    "full_name": "Neural Networks",
-    "field": [
-      "ML",
-      "AI"
-    ],
-    "ccf_rank": "B",
-    "cas_partition": "2区",
-    "jcr_quartile": "Q1",
-    "impact_factor": "6.3",
-    "publisher": "Elsevier",
-    "submission_mode": "rolling",
-    "website": "https://www.sciencedirect.com/journal/neural-networks",
-    "warning": "No",
-    "note": "Neural computation and learning journal."
-  },
-  {
-    "type": "journal",
-    "abbr": "NEUCOM",
-    "full_name": "Neurocomputing",
-    "field": [
-      "ML",
-      "AI"
-    ],
-    "ccf_rank": "C",
-    "cas_partition": "2区",
-    "jcr_quartile": "Q1",
-    "impact_factor": "6.5",
-    "publisher": "Elsevier",
-    "submission_mode": "rolling",
-    "website": "https://www.sciencedirect.com/journal/neurocomputing",
-    "warning": "No",
-    "note": "Neural computing and machine learning journal."
-  },
-  {
-    "type": "journal",
-    "abbr": "ESWA",
-    "full_name": "Expert Systems with Applications",
-    "field": [
-      "AI",
-      "DM"
-    ],
-    "ccf_rank": "C",
-    "cas_partition": "1区",
-    "jcr_quartile": "Q1",
-    "impact_factor": "7.5",
-    "publisher": "Elsevier",
-    "submission_mode": "rolling",
-    "website": "https://www.sciencedirect.com/journal/expert-systems-with-applications",
-    "warning": "No",
-    "note": "Applied AI and expert systems journal."
-  },
-  {
-    "type": "journal",
-    "abbr": "TCYB",
-    "full_name": "IEEE Transactions on Cybernetics",
-    "field": [
-      "AI",
-      "Systems"
-    ],
-    "ccf_rank": "B",
-    "cas_partition": "1区",
-    "jcr_quartile": "Q1",
-    "impact_factor": "10.5",
-    "publisher": "IEEE",
-    "submission_mode": "rolling",
-    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036",
-    "warning": "No",
-    "note": "Cybernetics and intelligent systems journal."
-  },
-  {
-    "type": "journal",
-    "abbr": "TIST",
-    "full_name": "ACM Transactions on Intelligent Systems and Technology",
-    "field": [
-      "AI",
-      "ML"
-    ],
-    "ccf_rank": "C",
     "cas_partition": "3区",
     "jcr_quartile": "Q1",
-    "impact_factor": "6.6",
-    "publisher": "ACM",
+    "impact_factor": "4.8",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://dl.acm.org/journal/tist",
+    "website": "http://dblp.uni-trier.de/db/journals/tkdd/",
     "warning": "No",
-    "note": "Intelligent systems and technology journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
-    "abbr": "MLJ",
-    "full_name": "Machine Learning",
+    "abbr": "TWEB",
+    "full_name": "ACM Transactions on the Web",
     "field": [
-      "ML",
-      "AI"
+      "数据库",
+      "数据挖掘",
+      "内容检索"
     ],
     "ccf_rank": "B",
     "cas_partition": "4区",
-    "jcr_quartile": "Q2",
-    "impact_factor": "2.9",
-    "publisher": "Springer",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.1",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://link.springer.com/journal/10994",
+    "website": "http://dblp.uni-trier.de/db/journals/tweb/",
     "warning": "No",
-    "note": "Machine learning journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "AEI",
+    "full_name": "Advanced Engineering Informatics",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/aei/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "DKE",
+    "full_name": "Data & Knowledge Engineering",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/dke/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
     "abbr": "DMKD",
     "full_name": "Data Mining and Knowledge Discovery",
     "field": [
-      "DM",
-      "AI"
+      "数据库",
+      "数据挖掘",
+      "内容检索"
     ],
     "ccf_rank": "B",
     "cas_partition": "3区",
     "jcr_quartile": "Q2",
     "impact_factor": "4.3",
-    "publisher": "Springer",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://link.springer.com/journal/10618",
+    "website": "http://dblp.uni-trier.de/db/journals/datamine/",
     "warning": "No",
-    "note": "Data mining and knowledge discovery journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
-    "abbr": "TAFFC",
-    "full_name": "IEEE Transactions on Affective Computing",
+    "abbr": "EJIS",
+    "full_name": "European Journal of Information Systems",
     "field": [
-      "AI",
-      "HCI"
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "8.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ejis/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "G",
+    "full_name": "GeoInformatica",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/geoinformatica/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IPM",
+    "full_name": "Information Processing and Management",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ipm/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IS",
+    "full_name": "Information Sciences",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/isci/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IS",
+    "full_name": "Information Systems",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/is/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JASIST",
+    "full_name": "Journal of the Association for Information Science and Technology",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jasis/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JWS",
+    "full_name": "Journal of Web Semantics",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ws/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "KAIS",
+    "full_name": "Knowledge and Information Systems",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/kais/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "DSE",
+    "full_name": "Data Science and Engineering",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
     ],
     "ccf_rank": "B",
     "cas_partition": "1区",
     "jcr_quartile": "Q1",
-    "impact_factor": "9.8",
-    "publisher": "IEEE",
+    "impact_factor": "4.6",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369",
+    "website": "https://dblp.org/db/journals/dase/index.html",
     "warning": "No",
-    "note": "Affective computing journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
-    "abbr": "TMM",
-    "full_name": "IEEE Transactions on Multimedia",
+    "abbr": "DPD",
+    "full_name": "Distributed and Parallel Databases",
     "field": [
-      "Multimedia",
-      "AI"
+      "数据库",
+      "数据挖掘",
+      "内容检索"
     ],
-    "ccf_rank": "A",
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "0.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/dpd/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "I&M",
+    "full_name": "Information & Management",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "8.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/iam/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IPL",
+    "full_name": "Information Processing Letters",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ipl/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "DC",
+    "full_name": "Discover Computing",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "N/A",
+    "impact_factor": "N/A",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ir/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJCIS",
+    "full_name": "International Journal of Cooperative Information Systems",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijcis/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJGIS",
+    "full_name": "International Journal of Geographical Information Science",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
     "cas_partition": "1区",
     "jcr_quartile": "Q1",
-    "impact_factor": "9.7",
-    "publisher": "IEEE",
+    "impact_factor": "5.1",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046",
+    "website": "http://dblp.uni-trier.de/db/journals/gis/",
     "warning": "No",
-    "note": "Multimedia systems and applications journal."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJIS",
+    "full_name": "International Journal of Intelligent Systems",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijis/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJKM",
+    "full_name": "International Journal of Knowledge Management",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijkm/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJSWIS",
+    "full_name": "International Journal on Semantic Web and Information Systems",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijswis/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JCIS",
+    "full_name": "Journal of Computer Information Systems",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "4.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jcis/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JDM",
+    "full_name": "Journal of Database Management",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jdm/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JGITM",
+    "full_name": "Journal of Global Information Technology Management",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/jgim/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JIIS",
+    "full_name": "Journal of Intelligent Information Systems",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jiis/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JSIS",
+    "full_name": "The Journal of Strategic Information Systems",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jsis/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TIST",
+    "full_name": "ACM Transactions on Intelligent Systems and Technology",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/tist/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TORS",
+    "full_name": "ACM Transactions on Recommender Systems",
+    "field": [
+      "数据库",
+      "数据挖掘",
+      "内容检索"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/tors/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TIT",
+    "full_name": "IEEE Transactions on Information Theory",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "2.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tit/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IANDC",
+    "full_name": "Information and Computation",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/iandc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SICOMP",
+    "full_name": "SIAM Journal on Computing",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/siamcomp/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TALG",
+    "full_name": "ACM Transactions on Algorithms",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/talg/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOCL",
+    "full_name": "ACM Transactions on Computational Logic",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "0.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tocl/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOMS",
+    "full_name": "ACM Transactions on Mathematical Software",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "3.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/toms/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "Algorithmica",
+    "full_name": "Algorithmica",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "0.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/algorithmica/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CC",
+    "full_name": "Computational complexity",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "FAC",
+    "full_name": "Formal Aspects of Computing",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/fac/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "FMSD",
+    "full_name": "Formal Methods in System Design",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/fmsd/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "INFORMS",
+    "full_name": "INFORMS Journal on Computing",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/informs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JCSS",
+    "full_name": "Journal of Computer and System Sciences",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "0.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jcss/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JGO",
+    "full_name": "Journal of Global Optimization",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jgo/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JSC",
+    "full_name": "Journal of Symbolic Computation",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jsc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "MSCS",
+    "full_name": "Mathematical Structures in Computer Science",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "0.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/mscs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TCS",
+    "full_name": "Theoretical Computer Science",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tcs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "ACTA",
+    "full_name": "Acta Informatica",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/acta/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "APAL",
+    "full_name": "Annals of Pure and Applied Logic",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "0.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/apal/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "DAM",
+    "full_name": "Discrete Applied Mathematics",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/dam/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "FUIN",
+    "full_name": "Fundamenta Informaticae",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/fuin/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IPL",
+    "full_name": "Information Processing Letters",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ipl/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JCOMPLEXITY",
+    "full_name": "Journal of Complexity",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "1.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "LOGCOM",
+    "full_name": "Journal of Logic and Computation",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "0.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/logcom/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JSL",
+    "full_name": "The Journal of Symbolic Logic",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jsyml/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "LMCS",
+    "full_name": "Logical Methods in Computer Science",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/lmcs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SIDMA",
+    "full_name": "SIAM Journal on Discrete Mathematics",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/siamdm/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TCS",
+    "full_name": "Theory of Computing Systems",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/mst/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TQC",
+    "full_name": "ACM Transactions in Quantum Computing",
+    "field": [
+      "计算机科学理论"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/tqc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   },
   {
     "type": "journal",
     "abbr": "TOG",
     "full_name": "ACM Transactions on Graphics",
     "field": [
-      "Graphics",
-      "CV"
+      "计算机图形学与多媒体"
     ],
     "ccf_rank": "A",
     "cas_partition": "1区",
     "jcr_quartile": "Q1",
     "impact_factor": "9.5",
-    "publisher": "ACM",
+    "publisher": "Unknown",
     "submission_mode": "rolling",
-    "website": "https://dl.acm.org/journal/tog",
+    "website": "http://dblp.uni-trier.de/db/journals/tog/",
     "warning": "No",
-    "note": "Graphics journal often relevant to vision and AI graphics work."
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TIP",
+    "full_name": "IEEE Transactions on Image Processing",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "13.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tip/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TVCG",
+    "full_name": "IEEE Transactions on Visualization and Computer Graphics",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tvcg/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TMM",
+    "full_name": "IEEE Transactions on Multimedia",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tmm/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOMM",
+    "full_name": "ACM Transactions on Multimedia Computing,Communications and Applications",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tomccap/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CAGD",
+    "full_name": "Computer Aided Geometric Design",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cagd/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CGF",
+    "full_name": "Computer Graphics Forum",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cgf/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CAD",
+    "full_name": "Computer-Aided Design",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cad/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TCSVT",
+    "full_name": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "11.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tcsv/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JASA",
+    "full_name": "The Journal of the Acoustical Society of America",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://scitation.aip.org/content/asa/journal/jasa",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SIIMS",
+    "full_name": "SIAM Journal on Imaging Sciences",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "2.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/siamis/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SPECOM",
+    "full_name": "Speech Communication",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/speech/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CVMJ",
+    "full_name": "Computational Visual Media",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "18.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/cvm/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CGTA",
+    "full_name": "Computational Geometry: Theory and Applications",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "0.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/comgeo/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CAVW",
+    "full_name": "computer animation & virtual worlds",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/jvca/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "C&G",
+    "full_name": "Computers & Graphics",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cg/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "DCG",
+    "full_name": "Discrete & Computational Geometry",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "0.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/dcg/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SPL",
+    "full_name": "IEEE Signal Processing Letters",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/spl/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IET-IPR",
+    "full_name": "IET Image Processing",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/iet-ipr/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JVCIR",
+    "full_name": "Journal of Visual Communication and Image Representation",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jvcir/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "MS",
+    "full_name": "Multimedia Systems",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/mms/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "MTA",
+    "full_name": "Multimedia Tools and Applications",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "11.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/mta/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SIGPRO",
+    "full_name": "Signal Processing",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/sigpro/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IMAGE",
+    "full_name": "Signal Processing: Image Communication",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/spic/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TVC",
+    "full_name": "The Visual Computer",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/vc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "VI",
+    "full_name": "Visual Informatics",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "3.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/vi/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "VRIH",
+    "full_name": "Virtual Reality & Intelligent Hardware",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/vrih/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "GMOD",
+    "full_name": "Graphical Models",
+    "field": [
+      "计算机图形学与多媒体"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cvgip/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "AI",
+    "full_name": "Artificial Intelligence",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "4.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ai/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TPAMI",
+    "full_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "18.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/pami/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJCV",
+    "full_name": "International Journal of Computer Vision",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijcv/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JMLR",
+    "full_name": "Journal of Machine Learning Research",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jmlr/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TAP",
+    "full_name": "ACM Transactions on Applied Perception",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tap/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "AAMAS",
+    "full_name": "Autonomous Agents and Multi-Agent Systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/aamas/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CL",
+    "full_name": "Computational Linguistics",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/coling/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CVIU",
+    "full_name": "Computer Vision and Image Understanding",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cviu/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "DKE",
+    "full_name": "Data & Knowledge Engineering",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/dke/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "EC",
+    "full_name": "Evolutionary Computation",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ec/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TAC",
+    "full_name": "IEEE Transactions on Affective Computing",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/taffco/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TASLP",
+    "full_name": "IEEE Transactions on Audio, Speech and Language Processing",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "1.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/taslp/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "ITC",
+    "full_name": "IEEE Transactions on Cybernetics",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "10.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tcyb/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TEC",
+    "full_name": "IEEE Transactions on Evolutionary Computation",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "12",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tec/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TFS",
+    "full_name": "IEEE Transactions on Fuzzy Systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "11.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tfs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TNNLS",
+    "full_name": "IEEE Transactions on Neural Networks and learning systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "8.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tnn/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJAR",
+    "full_name": "International Journal of Approximate Reasoning",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijar/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JAIR",
+    "full_name": "Journal of Artificial Intelligence Research",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jair/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JAR",
+    "full_name": "Journal of Automated Reasoning",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jar/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JSLHR",
+    "full_name": "Journal of Speech, Language, and Hearing Research",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "2.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://jslhr.pubs.asha.org/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "ML",
+    "full_name": "Machine Learning",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ml/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "NC",
+    "full_name": "Neural Computation",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/neco/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "NN",
+    "full_name": "Neural Networks",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/nn/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "PR",
+    "full_name": "Pattern Recognition",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "7.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/conf/par/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TACL",
+    "full_name": "Transactions of the Association for Computational Linguistics",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/tacl/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TALLIP",
+    "full_name": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/talip/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "AI",
+    "full_name": "Applied Intelligence",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/apin/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "AIM",
+    "full_name": "Artificial Intelligence in Medicine",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/artmed/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "AL",
+    "full_name": "Artificial Life",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/alife/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CI",
+    "full_name": "Computational Intelligence",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ci/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CSL",
+    "full_name": "Computer Speech & Language",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/csl/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CS",
+    "full_name": "Connection Science",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/connection/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "DSS",
+    "full_name": "Decision Support Systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/dss/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "EAAI",
+    "full_name": "Engineering Applications of Artificial Intelligence",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/eaai/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "ES",
+    "full_name": "Expert Systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/es/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "ESWA",
+    "full_name": "Expert Systems with Applications",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "7.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/eswa/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "FSS",
+    "full_name": "Fuzzy Sets and Systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "2.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/fss/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TG",
+    "full_name": "IEEE Transactions on Games",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tciaig/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IET-CVI",
+    "full_name": "IET Computer Vision",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "1.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/iet-cvi/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "ISP",
+    "full_name": "IET Signal Processing",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "1.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/iet-spr/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IVC",
+    "full_name": "Image and Vision Computing",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ivc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IDA",
+    "full_name": "Intelligent Data Analysis",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ida/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJCIA",
+    "full_name": "International Journal of Computational Intelligence and Applications",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "1.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijcia/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJIS",
+    "full_name": "International Journal of Intelligent Systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijis/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJNS",
+    "full_name": "International Journal of Neural Systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijns/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJPRAI",
+    "full_name": "International Journal of Pattern Recognition and Artificial Intelligence",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "1.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijprai/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJUFKS",
+    "full_name": "International Journal of Uncertainty,Fuzziness and Knowledge-Based Systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/ijufks/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJDAR",
+    "full_name": "International Journal on Document Analysis and Recognition",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijdar/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JETAI",
+    "full_name": "Journal of Experimental and Theoretical Artificial Intelligence",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jetai/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "KBS",
+    "full_name": "Knowledge-Based Systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "7.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/kbs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "MT",
+    "full_name": "Machine Translation",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/mt/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "MVA",
+    "full_name": "Machine Vision and Applications",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/mva/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "NC",
+    "full_name": "Natural Computing",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/nc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "NLE",
+    "full_name": "Natural Language Engineering",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "1.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/nle/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "NCA",
+    "full_name": "Neural Computing and Applications",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/nca/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "NPL",
+    "full_name": "Neural Processing Letters",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/npl/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "N",
+    "full_name": "Neurocomputing",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijon/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "PAA",
+    "full_name": "Pattern Analysis and Applications",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/paa/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "PRL",
+    "full_name": "Pattern Recognition Letters",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/prl/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SC",
+    "full_name": "Soft Computing",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/soco/",
+    "warning": "Under Review",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "WI",
+    "full_name": "Web Intelligence",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "0.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/wias/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TIIS",
+    "full_name": "ACM Transactions on Interactive Intelligent Systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "4.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/tiis/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TELO",
+    "full_name": "ACM Transactions on Evolutionary Learning and Optimization",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/telo/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JATS",
+    "full_name": "ACM Journal on Autonomous Transportation Systems",
+    "field": [
+      "人工智能"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://ccf.atom.im/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOCHI",
+    "full_name": "ACM Transactions on Computer-Human Interaction",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tochi/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJHCS",
+    "full_name": "International Journal of Human-Computer Studies",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijmms/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CSCW",
+    "full_name": "Computer Supported Cooperative Work",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cscw/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "HCI",
+    "full_name": "Human-Computer Interaction",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/hhci/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "ITHMS",
+    "full_name": "IEEE Transactions on Human-Machine Systems",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "4.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/thms/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IWC",
+    "full_name": "Interacting with Computers",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q4",
+    "impact_factor": "1.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/iwc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJHCI",
+    "full_name": "International Journal of Human-Computer Interaction",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ijhci/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "UMUAI",
+    "full_name": "User Modeling and User-Adapted Interaction",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/umuai/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TSMC",
+    "full_name": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/tsmc/tsmc12.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CCF TPCI",
+    "full_name": "CCF Transactions on Pervasive Computing and Interaction",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/ccftpci/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "BIT",
+    "full_name": "Behaviour & Information Technology",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.1",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/behaviourIT/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "PUC",
+    "full_name": "Personal and Ubiquitous Computing",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/puc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "PMC",
+    "full_name": "Pervasive and Mobile Computing",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "3.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/percom/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "PACMHCI",
+    "full_name": "Proceedings of the ACM on Human-Computer Interaction",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/pacmhci/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "THRI",
+    "full_name": "ACM Transactions on Human-Robot Interaction",
+    "field": [
+      "人机交互与普适计算"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/thri/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JACM",
+    "full_name": "Journal of the ACM",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jacm/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "Proc. IEEE",
+    "full_name": "Proceedings of the IEEE",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "25.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/pieee/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "SCIS",
+    "full_name": "Science China Information Sciences",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "7.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/chinaf/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "Bioinformatics",
+    "full_name": "Bioinformatics",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/bioinformatics/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "BB",
+    "full_name": "Briefings in Bioinformatics",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "7.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/bib/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "Cognition",
+    "full_name": "Cognition",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "2.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://www.journals.elsevier.com/cognition/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TASAE",
+    "full_name": "IEEE Transactions on Automation Science and Engineering",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tase/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TGARS",
+    "full_name": "IEEE Transactions on Geoscience and Remote Sensing",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "8.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tgrs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TITS",
+    "full_name": "IEEE Transactions on Intelligent Transportation Systems",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "8.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tits/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TMI",
+    "full_name": "IEEE Transactions on Medical Imaging",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tmi/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TR",
+    "full_name": "IEEE Transactions on Robotics",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "10.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/trob/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TCBB",
+    "full_name": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "3.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/tcbb/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JCST",
+    "full_name": "Journal of Computer Science and Technology",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jcst/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JAMIA",
+    "full_name": "Journal of the American Medical Informatics Association",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/jamia/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "PCB",
+    "full_name": "PLOS Computational Biology",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "3.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/ploscb/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CJ",
+    "full_name": "The Computer Journal",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cj/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "WWW",
+    "full_name": "The Web Conference",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/www/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "FCS",
+    "full_name": "Frontiers of Computer Science",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/fcsc/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "BCRA",
+    "full_name": "Blockchain: Research and Applications",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.6",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/search?q=BCRA",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "BB",
+    "full_name": "BMC Bioinformatics",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "3.3",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/bmcbi/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "CS",
+    "full_name": "Cybernetics and Systems",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "1.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/cas/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IGRSL",
+    "full_name": "IEEE Geoscience and Remote Sensing Letters",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.4",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/lgrs/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JBHI",
+    "full_name": "IEEE Journal of Biomedical and Health Informatics",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/titb/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TBD",
+    "full_name": "IEEE Transactions on Big Data",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/tbd/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "IITS",
+    "full_name": "IET Intelligent Transport Systems",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://digital-library.theiet.org/content/journals/iet-its",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "JBI",
+    "full_name": "Journal of Biomedical Informatics",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "4.5",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/jbi/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "MIA",
+    "full_name": "Medical Image Analysis",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "11.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "http://dblp.uni-trier.de/db/journals/mia/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TII",
+    "full_name": "IEEE Transactions on Industrial Informatics",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/tii/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TCPS",
+    "full_name": "ACM Transactions on Cyber-Physical Systems",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q3",
+    "impact_factor": "2.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/tcps/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOCE",
+    "full_name": "ACM Transactions on Computing Education",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "3.8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/jeric/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "EITEE",
+    "full_name": "ENGINEERING Information Technology & Electronic Engineering",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://www.academax.com/EITEE/home",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "TCSS",
+    "full_name": "IEEE Transactions on Computational Social Systems",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "4.9",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/tcss/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "ITR",
+    "full_name": "IEEE Transactions on Reliability",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.7",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.org/db/journals/tr/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "HEALTH",
+    "full_name": "ACM Transactions on Computing for Healthcare",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "8",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/health/",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
+  },
+  {
+    "type": "journal",
+    "abbr": "ACM DLT",
+    "full_name": "ACM Distributed Ledger Technologies: Research and Practice",
+    "field": [
+      "交叉",
+      "综合",
+      "新兴"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Unknown",
+    "submission_mode": "rolling",
+    "website": "https://dblp.uni-trier.de/db/journals/distribledger/index.html",
+    "warning": "No",
+    "note": "Imported from the CCF 2026 directory. CAS/JCR fields are filled from ShowJCR when matched."
   }
 ]

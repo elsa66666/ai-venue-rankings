@@ -1,12 +1,13 @@
 # AI Venue Rankings
 
-A static GitHub Pages website for tracking AI-related conferences and journals with CCF ranking, conference deadline, journal partition, JCR quartile, impact factor, official website, and submission notes.
+A static GitHub Pages website for tracking AI-related conferences and journals with CCF ranking, conference deadline, journal partition, JCR quartile, impact factor, website/source link, and submission notes.
 
 Screenshot placeholder: add a screenshot after the first GitHub Pages deployment.
 
 ## Features
 
 - Search by abbreviation, full name, field, note, publisher, or location.
+- Include all 2026 CCF directory entries from `https://ccf.atom.im/`: 386 conferences and 295 journals.
 - Filter by venue type, field, CCF rank, CAS partition, JCR quartile, upcoming submission deadline, and rolling submission.
 - Sort by deadline, CCF rank, abbreviation, or numeric impact factor.
 - Show journal impact factor as a dedicated table/card field.
@@ -33,7 +34,7 @@ Journal CAS partition, JCR quartile, impact factor, and warning fields were fill
 
 This repository does not guarantee the correctness of CCF ranking, CAS partition, JCR quartile, impact factor, deadlines, locations, or warning status. Ranking and partition information may change over time. Always verify information from official CCF, CAS, JCR, and venue websites before submission.
 
-CCF rankings are currently checked against the 2026 CCF directory mirror at `https://ccf.atom.im/`, with the official CCF page linked from that mirror. Conference examples in this repository should be limited to CCF-listed conferences. Use `TBD`, `Unknown`, or `None` when exact values are uncertain or a venue is not listed.
+CCF rankings are currently checked against the 2026 CCF directory mirror at `https://ccf.atom.im/`, with the official CCF page linked from that mirror. The imported source links are often DBLP or directory links; replace them with official venue or journal pages when manually curating individual records. Use `TBD`, `Unknown`, or `None` when exact values are uncertain or a venue is not listed.
 
 ## Run Locally
 
