@@ -9,6 +9,7 @@ Screenshot placeholder: add a screenshot after the first GitHub Pages deployment
 - Search by abbreviation, full name, field, note, publisher, or location.
 - Filter by venue type, field, CCF rank, CAS partition, JCR quartile, upcoming submission deadline, and rolling submission.
 - Sort by deadline, CCF rank, abbreviation, or numeric impact factor.
+- Show journal impact factor as a dedicated table/card field.
 - Show conference date, abstract deadline, submission deadline, and notification date as separate columns.
 - Toggle between table and card views.
 - Vanilla HTML, CSS, JavaScript, and JSON only.

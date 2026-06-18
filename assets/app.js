@@ -127,6 +127,7 @@ function renderTable() {
       <td>${deadlineText(venue)}</td>
       <td>${dateCell(venue, "notification_date")}</td>
       <td>${partitionBadges(venue)}</td>
+      <td>${impactText(venue)}</td>
       <td><a href="${escapeAttr(venue.website)}" target="_blank" rel="noopener">Official</a></td>
       <td>${escapeHtml(venue.note || "")}</td>
     </tr>
@@ -151,6 +152,7 @@ function renderCards() {
         <span><strong>Submission:</strong> ${deadlineText(venue)}</span>
         <span><strong>Notification:</strong> ${dateCell(venue, "notification_date")}</span>
         <span><strong>Partition / JCR:</strong> ${partitionBadges(venue)}</span>
+        <span><strong>Impact factor:</strong> ${impactText(venue)}</span>
         <span><a href="${escapeAttr(venue.website)}" target="_blank" rel="noopener">Official website</a></span>
       </div>
       <p>${escapeHtml(venue.note || "")}</p>
@@ -178,6 +180,10 @@ function deadlineText(venue) {
 function dateCell(venue, key) {
   if (venue.type === "journal") return "N/A";
   return escapeHtml(venue[key] || "TBD");
+}
+
+function impactText(venue) {
+  return venue.type === "journal" ? escapeHtml(venue.impact_factor || "TBD") : "N/A";
 }
 
 function isUpcoming(deadline) {
