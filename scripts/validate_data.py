@@ -12,19 +12,30 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 VALID_TYPES = {"conference", "journal"}
 VALID_CCF = {"A", "B", "C", "None", "Unknown"}
-CONFERENCE_DATE_FIELDS = ("deadline", "notification", "conference_date")
+CONFERENCE_DATE_FIELDS = (
+    "abstract_deadline",
+    "submission_deadline",
+    "deadline",
+    "notification",
+    "notification_date",
+    "conference_date",
+)
 CONFERENCE_REQUIRED = {
     "type",
     "abbr",
     "full_name",
     "field",
     "ccf_rank",
+    "abstract_deadline",
+    "submission_deadline",
     "deadline",
     "notification",
+    "notification_date",
     "conference_date",
     "location",
     "website",
     "submission_cycle",
+    "date_source",
     "note",
 }
 JOURNAL_REQUIRED = {

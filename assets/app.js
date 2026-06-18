@@ -122,7 +122,10 @@ function renderTable() {
       <td>${escapeHtml(venue.full_name)}</td>
       <td>${fieldBadges(venue.field)}</td>
       <td>${ccfBadge(venue.ccf_rank)}</td>
+      <td>${dateCell(venue, "conference_date")}</td>
+      <td>${dateCell(venue, "abstract_deadline")}</td>
       <td>${deadlineText(venue)}</td>
+      <td>${dateCell(venue, "notification_date")}</td>
       <td>${partitionBadges(venue)}</td>
       <td><a href="${escapeAttr(venue.website)}" target="_blank" rel="noopener">Official</a></td>
       <td>${escapeHtml(venue.note || "")}</td>
@@ -143,7 +146,10 @@ function renderCards() {
       <p><strong>${escapeHtml(venue.full_name)}</strong></p>
       <div class="meta">
         <span>${fieldBadges(venue.field)}</span>
-        <span><strong>Deadline / Submission:</strong> ${deadlineText(venue)}</span>
+        <span><strong>Conference date:</strong> ${dateCell(venue, "conference_date")}</span>
+        <span><strong>Abstract:</strong> ${dateCell(venue, "abstract_deadline")}</span>
+        <span><strong>Submission:</strong> ${deadlineText(venue)}</span>
+        <span><strong>Notification:</strong> ${dateCell(venue, "notification_date")}</span>
         <span><strong>Partition / JCR:</strong> ${partitionBadges(venue)}</span>
         <span><a href="${escapeAttr(venue.website)}" target="_blank" rel="noopener">Official website</a></span>
       </div>
@@ -162,11 +168,16 @@ function updateView() {
 
 function deadlineText(venue) {
   if (venue.type === "journal") return escapeHtml(venue.submission_mode || "Unknown");
-  const deadline = venue.deadline || "TBD";
+  const deadline = venue.submission_deadline || venue.deadline || "TBD";
   if (deadline === "TBD") return "TBD";
   const days = daysUntil(deadline);
   const status = days < 0 ? "Past deadline" : `Due in ${days} days`;
   return `${escapeHtml(deadline)} <span class="badge ${days < 0 ? "unknown" : "q2"}">${status}</span>`;
+}
+
+function dateCell(venue, key) {
+  if (venue.type === "journal") return "N/A";
+  return escapeHtml(venue[key] || "TBD");
 }
 
 function isUpcoming(deadline) {

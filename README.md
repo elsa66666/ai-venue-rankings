@@ -7,8 +7,9 @@ Screenshot placeholder: add a screenshot after the first GitHub Pages deployment
 ## Features
 
 - Search by abbreviation, full name, field, note, publisher, or location.
-- Filter by venue type, field, CCF rank, CAS partition, JCR quartile, upcoming deadline, and rolling submission.
+- Filter by venue type, field, CCF rank, CAS partition, JCR quartile, upcoming submission deadline, and rolling submission.
 - Sort by deadline, CCF rank, abbreviation, or numeric impact factor.
+- Show conference date, abstract deadline, submission deadline, and notification date as separate columns.
 - Toggle between table and card views.
 - Vanilla HTML, CSS, JavaScript, and JSON only.
 - Works on GitHub Pages with no build step.
@@ -65,17 +66,21 @@ Edit `data/conferences.json` and add a record like:
   "field": ["NLP", "AI"],
   "ccf_rank": "A",
   "core_rank": "A*",
+  "abstract_deadline": "TBD",
+  "submission_deadline": "TBD",
   "deadline": "TBD",
   "notification": "TBD",
+  "notification_date": "TBD",
   "conference_date": "TBD",
   "location": "TBD",
   "website": "https://www.aclweb.org/portal/acl",
   "submission_cycle": "annual",
+  "date_source": "TBD",
   "note": "Main NLP conference."
 }
 ```
 
-Use `YYYY-MM-DD` for known dates or `TBD` for unknown dates. Keep conference examples to CCF A/B/C venues only.
+Use `YYYY-MM-DD` for known dates or `TBD` for unknown dates. The visible conference deadline columns are `abstract_deadline`, `submission_deadline`, and `notification_date`; `deadline` is kept as a submission-deadline alias. Keep conference examples to CCF A/B/C venues only.
 
 ## Add a Journal
 
