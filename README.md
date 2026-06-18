@@ -26,6 +26,8 @@ This repository is inspired by these projects and data-source ideas:
 
 The current version does not scrape websites automatically. Data is manually maintained in `data/conferences.json` and `data/journals.json`.
 
+Journal CAS partition, JCR quartile, impact factor, and warning fields were filled from the ShowJCR CSV files referenced by `yosh3289/jcr_mcp`: `FQBJCR2025-UTF8.csv`, `JCR2024-UTF8.csv`, and `XR2026-UTF8.csv`.
+
 ## Data Disclaimer
 
 This repository does not guarantee the correctness of CCF ranking, CAS partition, JCR quartile, impact factor, deadlines, locations, or warning status. Ranking and partition information may change over time. Always verify information from official CCF, CAS, JCR, and venue websites before submission.

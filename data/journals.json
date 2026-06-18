@@ -8,13 +8,13 @@
       "AI"
     ],
     "ccf_rank": "A",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "18.6",
     "publisher": "IEEE",
     "submission_mode": "rolling",
     "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Top journal in computer vision and pattern recognition."
   },
   {
@@ -26,13 +26,13 @@
       "AI"
     ],
     "ccf_rank": "A",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.3",
     "publisher": "Springer",
     "submission_mode": "rolling",
     "website": "https://link.springer.com/journal/11263",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Computer vision journal."
   },
   {
@@ -44,13 +44,13 @@
       "Multimedia"
     ],
     "ccf_rank": "A",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "13.7",
     "publisher": "IEEE",
     "submission_mode": "rolling",
     "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Image processing journal."
   },
   {
@@ -62,13 +62,13 @@
       "AI"
     ],
     "ccf_rank": "B",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "8.9",
     "publisher": "IEEE",
     "submission_mode": "rolling",
     "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Neural networks and learning systems journal."
   },
   {
@@ -80,13 +80,13 @@
       "DM"
     ],
     "ccf_rank": "A",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "10.4",
     "publisher": "IEEE",
     "submission_mode": "rolling",
     "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Knowledge and data engineering journal."
   },
   {
@@ -98,13 +98,13 @@
       "AI"
     ],
     "ccf_rank": "A",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.1",
     "publisher": "ACM",
     "submission_mode": "rolling",
     "website": "https://dl.acm.org/journal/tois",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Information retrieval and information systems journal."
   },
   {
@@ -116,13 +116,13 @@
       "AI"
     ],
     "ccf_rank": "A",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "5.2",
     "publisher": "Microtome Publishing",
     "submission_mode": "rolling",
     "website": "https://www.jmlr.org/",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Open-access machine learning journal."
   },
   {
@@ -134,13 +134,13 @@
       "AI"
     ],
     "ccf_rank": "B",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.9",
     "publisher": "ACL",
     "submission_mode": "rolling",
     "website": "https://transacl.org/",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "ACL journal for computational linguistics."
   },
   {
@@ -151,13 +151,13 @@
       "AI"
     ],
     "ccf_rank": "A",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "4.6",
     "publisher": "Elsevier",
     "submission_mode": "rolling",
     "website": "https://www.sciencedirect.com/journal/artificial-intelligence",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "General artificial intelligence journal."
   },
   {
@@ -169,13 +169,13 @@
       "DM"
     ],
     "ccf_rank": "C",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "7.6",
     "publisher": "Elsevier",
     "submission_mode": "rolling",
     "website": "https://www.sciencedirect.com/journal/knowledge-based-systems",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Knowledge-based and intelligent systems journal."
   },
   {
@@ -187,13 +187,13 @@
       "ML"
     ],
     "ccf_rank": "None",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "15.5",
     "publisher": "Elsevier",
     "submission_mode": "rolling",
     "website": "https://www.sciencedirect.com/journal/information-fusion",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Not found in the referenced 2026 CCF directory; kept as a non-CCF journal sample."
   },
   {
@@ -205,13 +205,13 @@
       "AI"
     ],
     "ccf_rank": "B",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "7.6",
     "publisher": "Elsevier",
     "submission_mode": "rolling",
     "website": "https://www.sciencedirect.com/journal/pattern-recognition",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Pattern recognition journal."
   },
   {
@@ -223,13 +223,13 @@
       "AI"
     ],
     "ccf_rank": "B",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.3",
     "publisher": "Elsevier",
     "submission_mode": "rolling",
     "website": "https://www.sciencedirect.com/journal/neural-networks",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Neural computation and learning journal."
   },
   {
@@ -241,13 +241,13 @@
       "AI"
     ],
     "ccf_rank": "C",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "2区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.5",
     "publisher": "Elsevier",
     "submission_mode": "rolling",
     "website": "https://www.sciencedirect.com/journal/neurocomputing",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Neural computing and machine learning journal."
   },
   {
@@ -259,13 +259,13 @@
       "DM"
     ],
     "ccf_rank": "C",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "7.5",
     "publisher": "Elsevier",
     "submission_mode": "rolling",
     "website": "https://www.sciencedirect.com/journal/expert-systems-with-applications",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Applied AI and expert systems journal."
   },
   {
@@ -277,13 +277,13 @@
       "Systems"
     ],
     "ccf_rank": "B",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "10.5",
     "publisher": "IEEE",
     "submission_mode": "rolling",
     "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Cybernetics and intelligent systems journal."
   },
   {
@@ -295,13 +295,13 @@
       "ML"
     ],
     "ccf_rank": "C",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "6.6",
     "publisher": "ACM",
     "submission_mode": "rolling",
     "website": "https://dl.acm.org/journal/tist",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Intelligent systems and technology journal."
   },
   {
@@ -313,13 +313,13 @@
       "AI"
     ],
     "ccf_rank": "B",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "4区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "2.9",
     "publisher": "Springer",
     "submission_mode": "rolling",
     "website": "https://link.springer.com/journal/10994",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Machine learning journal."
   },
   {
@@ -331,13 +331,13 @@
       "AI"
     ],
     "ccf_rank": "B",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "3区",
+    "jcr_quartile": "Q2",
+    "impact_factor": "4.3",
     "publisher": "Springer",
     "submission_mode": "rolling",
     "website": "https://link.springer.com/journal/10618",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Data mining and knowledge discovery journal."
   },
   {
@@ -349,13 +349,13 @@
       "HCI"
     ],
     "ccf_rank": "B",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.8",
     "publisher": "IEEE",
     "submission_mode": "rolling",
     "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Affective computing journal."
   },
   {
@@ -367,13 +367,13 @@
       "AI"
     ],
     "ccf_rank": "A",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.7",
     "publisher": "IEEE",
     "submission_mode": "rolling",
     "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Multimedia systems and applications journal."
   },
   {
@@ -385,13 +385,13 @@
       "CV"
     ],
     "ccf_rank": "A",
-    "cas_partition": "Unknown",
-    "jcr_quartile": "Unknown",
-    "impact_factor": "TBD",
+    "cas_partition": "1区",
+    "jcr_quartile": "Q1",
+    "impact_factor": "9.5",
     "publisher": "ACM",
     "submission_mode": "rolling",
     "website": "https://dl.acm.org/journal/tog",
-    "warning": "Unknown",
+    "warning": "No",
     "note": "Graphics journal often relevant to vision and AI graphics work."
   }
 ]

@@ -56,3 +56,5 @@ Date fields use `YYYY-MM-DD` or `TBD`. The UI shows `abstract_deadline`, `submis
 ```
 
 Use `Unknown` or `TBD` for uncertain CCF, CAS, JCR, impact factor, warning, or deadline values. Verify against official CCF, CAS, JCR, and venue pages before relying on the data.
+
+Current journal partition fields use the ShowJCR data sources referenced by `yosh3289/jcr_mcp`: `cas_partition` comes from `FQBJCR2025`, `jcr_quartile` and `impact_factor` come from `JCR2024`, and `warning` comes from `XR2026`.
