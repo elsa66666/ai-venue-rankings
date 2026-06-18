@@ -101,6 +101,14 @@ h1 {
   color: #ffffff;
 }
 
+.secondary-button:disabled,
+.secondary-button:disabled:hover {
+  border-color: var(--line);
+  background: #f3f4f6;
+  color: var(--muted);
+  cursor: not-allowed;
+}
+
 .search-row {
   margin-top: 14px;
 }

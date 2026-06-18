@@ -2,8 +2,10 @@ const state = {
   venues: [],
   filtered: [],
   activeTab: "all",
-  view: window.matchMedia("(max-width: 680px)").matches ? "card" : "table"
+  view: "table"
 };
+
+const narrowLayoutQuery = window.matchMedia("(max-width: 680px)");
 
 const els = {
   tabs: document.querySelectorAll(".tab"),
@@ -33,6 +35,7 @@ async function init() {
     const conferences = await conferenceRes.json();
     const journals = await journalRes.json();
     state.venues = [...conferences, ...journals];
+    state.view = isNarrowLayout() ? "card" : "table";
     populateFieldFilter();
     bindEvents();
     render();
@@ -57,7 +60,13 @@ function bindEvents() {
     .forEach((el) => el.addEventListener("input", render));
 
   els.viewToggle.addEventListener("click", () => {
+    if (isNarrowLayout()) return;
     state.view = state.view === "table" ? "card" : "table";
+    render();
+  });
+
+  narrowLayoutQuery.addEventListener("change", () => {
+    if (isNarrowLayout()) state.view = "card";
     render();
   });
 }
@@ -161,11 +170,19 @@ function renderCards() {
 }
 
 function updateView() {
+  const lockedToCard = isNarrowLayout();
+  if (lockedToCard) state.view = "card";
   const card = state.view === "card";
   els.tableView.classList.toggle("hidden", card);
   els.cardView.classList.toggle("hidden", !card);
-  els.viewToggle.textContent = card ? "Table view" : "Card view";
+  els.viewToggle.disabled = lockedToCard;
+  els.viewToggle.title = lockedToCard ? "Table view is disabled on narrow screens" : "";
+  els.viewToggle.textContent = lockedToCard ? "Card view only" : (card ? "Table view" : "Card view");
   els.viewToggle.setAttribute("aria-pressed", String(card));
+}
+
+function isNarrowLayout() {
+  return narrowLayoutQuery.matches;
 }
 
 function deadlineText(venue) {
