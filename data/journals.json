@@ -1,24 +1,397 @@
 [
-  {"type":"journal","abbr":"TPAMI","full_name":"IEEE Transactions on Pattern Analysis and Machine Intelligence","field":["CV","AI"],"ccf_rank":"A","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"IEEE","submission_mode":"rolling","website":"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34","warning":"Unknown","note":"Top journal in computer vision and pattern recognition."},
-  {"type":"journal","abbr":"IJCV","full_name":"International Journal of Computer Vision","field":["CV","AI"],"ccf_rank":"A","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"Springer","submission_mode":"rolling","website":"https://link.springer.com/journal/11263","warning":"Unknown","note":"Computer vision journal."},
-  {"type":"journal","abbr":"TIP","full_name":"IEEE Transactions on Image Processing","field":["CV","Multimedia"],"ccf_rank":"A","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"IEEE","submission_mode":"rolling","website":"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83","warning":"Unknown","note":"Image processing journal."},
-  {"type":"journal","abbr":"TNNLS","full_name":"IEEE Transactions on Neural Networks and Learning Systems","field":["ML","AI"],"ccf_rank":"B","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"IEEE","submission_mode":"rolling","website":"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385","warning":"Unknown","note":"Neural networks and learning systems journal."},
-  {"type":"journal","abbr":"TKDE","full_name":"IEEE Transactions on Knowledge and Data Engineering","field":["DB","DM"],"ccf_rank":"A","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"IEEE","submission_mode":"rolling","website":"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69","warning":"Unknown","note":"Knowledge and data engineering journal."},
-  {"type":"journal","abbr":"TOIS","full_name":"ACM Transactions on Information Systems","field":["IR","AI"],"ccf_rank":"A","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"ACM","submission_mode":"rolling","website":"https://dl.acm.org/journal/tois","warning":"Unknown","note":"Information retrieval and information systems journal."},
-  {"type":"journal","abbr":"JMLR","full_name":"Journal of Machine Learning Research","field":["ML","AI"],"ccf_rank":"A","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"Microtome Publishing","submission_mode":"rolling","website":"https://www.jmlr.org/","warning":"Unknown","note":"Open-access machine learning journal."},
-  {"type":"journal","abbr":"TACL","full_name":"Transactions of the Association for Computational Linguistics","field":["NLP","AI"],"ccf_rank":"B","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"ACL","submission_mode":"rolling","website":"https://transacl.org/","warning":"Unknown","note":"ACL journal for computational linguistics."},
-  {"type":"journal","abbr":"AIJ","full_name":"Artificial Intelligence","field":["AI"],"ccf_rank":"A","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"Elsevier","submission_mode":"rolling","website":"https://www.sciencedirect.com/journal/artificial-intelligence","warning":"Unknown","note":"General artificial intelligence journal."},
-  {"type":"journal","abbr":"KBS","full_name":"Knowledge-Based Systems","field":["AI","DM"],"ccf_rank":"C","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"Elsevier","submission_mode":"rolling","website":"https://www.sciencedirect.com/journal/knowledge-based-systems","warning":"Unknown","note":"Knowledge-based and intelligent systems journal."},
-  {"type":"journal","abbr":"INFFUS","full_name":"Information Fusion","field":["AI","ML"],"ccf_rank":"C","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"Elsevier","submission_mode":"rolling","website":"https://www.sciencedirect.com/journal/information-fusion","warning":"Unknown","note":"Information fusion and intelligent systems journal."},
-  {"type":"journal","abbr":"PR","full_name":"Pattern Recognition","field":["CV","AI"],"ccf_rank":"B","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"Elsevier","submission_mode":"rolling","website":"https://www.sciencedirect.com/journal/pattern-recognition","warning":"Unknown","note":"Pattern recognition journal."},
-  {"type":"journal","abbr":"NN","full_name":"Neural Networks","field":["ML","AI"],"ccf_rank":"B","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"Elsevier","submission_mode":"rolling","website":"https://www.sciencedirect.com/journal/neural-networks","warning":"Unknown","note":"Neural computation and learning journal."},
-  {"type":"journal","abbr":"NEUCOM","full_name":"Neurocomputing","field":["ML","AI"],"ccf_rank":"C","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"Elsevier","submission_mode":"rolling","website":"https://www.sciencedirect.com/journal/neurocomputing","warning":"Unknown","note":"Neural computing and machine learning journal."},
-  {"type":"journal","abbr":"ESWA","full_name":"Expert Systems with Applications","field":["AI","DM"],"ccf_rank":"C","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"Elsevier","submission_mode":"rolling","website":"https://www.sciencedirect.com/journal/expert-systems-with-applications","warning":"Unknown","note":"Applied AI and expert systems journal."},
-  {"type":"journal","abbr":"TCYB","full_name":"IEEE Transactions on Cybernetics","field":["AI","Systems"],"ccf_rank":"B","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"IEEE","submission_mode":"rolling","website":"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036","warning":"Unknown","note":"Cybernetics and intelligent systems journal."},
-  {"type":"journal","abbr":"TIST","full_name":"ACM Transactions on Intelligent Systems and Technology","field":["AI","ML"],"ccf_rank":"B","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"ACM","submission_mode":"rolling","website":"https://dl.acm.org/journal/tist","warning":"Unknown","note":"Intelligent systems and technology journal."},
-  {"type":"journal","abbr":"MLJ","full_name":"Machine Learning","field":["ML","AI"],"ccf_rank":"B","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"Springer","submission_mode":"rolling","website":"https://link.springer.com/journal/10994","warning":"Unknown","note":"Machine learning journal."},
-  {"type":"journal","abbr":"DMKD","full_name":"Data Mining and Knowledge Discovery","field":["DM","AI"],"ccf_rank":"B","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"Springer","submission_mode":"rolling","website":"https://link.springer.com/journal/10618","warning":"Unknown","note":"Data mining and knowledge discovery journal."},
-  {"type":"journal","abbr":"TAFFC","full_name":"IEEE Transactions on Affective Computing","field":["AI","HCI"],"ccf_rank":"C","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"IEEE","submission_mode":"rolling","website":"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369","warning":"Unknown","note":"Affective computing journal."},
-  {"type":"journal","abbr":"TMM","full_name":"IEEE Transactions on Multimedia","field":["Multimedia","AI"],"ccf_rank":"B","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"IEEE","submission_mode":"rolling","website":"https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046","warning":"Unknown","note":"Multimedia systems and applications journal."},
-  {"type":"journal","abbr":"TOG","full_name":"ACM Transactions on Graphics","field":["Graphics","CV"],"ccf_rank":"A","cas_partition":"Unknown","jcr_quartile":"Unknown","impact_factor":"TBD","publisher":"ACM","submission_mode":"rolling","website":"https://dl.acm.org/journal/tog","warning":"Unknown","note":"Graphics journal often relevant to vision and AI graphics work."}
+  {
+    "type": "journal",
+    "abbr": "TPAMI",
+    "full_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "field": [
+      "CV",
+      "AI"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "IEEE",
+    "submission_mode": "rolling",
+    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34",
+    "warning": "Unknown",
+    "note": "Top journal in computer vision and pattern recognition."
+  },
+  {
+    "type": "journal",
+    "abbr": "IJCV",
+    "full_name": "International Journal of Computer Vision",
+    "field": [
+      "CV",
+      "AI"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Springer",
+    "submission_mode": "rolling",
+    "website": "https://link.springer.com/journal/11263",
+    "warning": "Unknown",
+    "note": "Computer vision journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "TIP",
+    "full_name": "IEEE Transactions on Image Processing",
+    "field": [
+      "CV",
+      "Multimedia"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "IEEE",
+    "submission_mode": "rolling",
+    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83",
+    "warning": "Unknown",
+    "note": "Image processing journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "TNNLS",
+    "full_name": "IEEE Transactions on Neural Networks and Learning Systems",
+    "field": [
+      "ML",
+      "AI"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "IEEE",
+    "submission_mode": "rolling",
+    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385",
+    "warning": "Unknown",
+    "note": "Neural networks and learning systems journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "TKDE",
+    "full_name": "IEEE Transactions on Knowledge and Data Engineering",
+    "field": [
+      "DB",
+      "DM"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "IEEE",
+    "submission_mode": "rolling",
+    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69",
+    "warning": "Unknown",
+    "note": "Knowledge and data engineering journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOIS",
+    "full_name": "ACM Transactions on Information Systems",
+    "field": [
+      "IR",
+      "AI"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "ACM",
+    "submission_mode": "rolling",
+    "website": "https://dl.acm.org/journal/tois",
+    "warning": "Unknown",
+    "note": "Information retrieval and information systems journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "JMLR",
+    "full_name": "Journal of Machine Learning Research",
+    "field": [
+      "ML",
+      "AI"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Microtome Publishing",
+    "submission_mode": "rolling",
+    "website": "https://www.jmlr.org/",
+    "warning": "Unknown",
+    "note": "Open-access machine learning journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "TACL",
+    "full_name": "Transactions of the Association for Computational Linguistics",
+    "field": [
+      "NLP",
+      "AI"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "ACL",
+    "submission_mode": "rolling",
+    "website": "https://transacl.org/",
+    "warning": "Unknown",
+    "note": "ACL journal for computational linguistics."
+  },
+  {
+    "type": "journal",
+    "abbr": "AIJ",
+    "full_name": "Artificial Intelligence",
+    "field": [
+      "AI"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Elsevier",
+    "submission_mode": "rolling",
+    "website": "https://www.sciencedirect.com/journal/artificial-intelligence",
+    "warning": "Unknown",
+    "note": "General artificial intelligence journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "KBS",
+    "full_name": "Knowledge-Based Systems",
+    "field": [
+      "AI",
+      "DM"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Elsevier",
+    "submission_mode": "rolling",
+    "website": "https://www.sciencedirect.com/journal/knowledge-based-systems",
+    "warning": "Unknown",
+    "note": "Knowledge-based and intelligent systems journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "INFFUS",
+    "full_name": "Information Fusion",
+    "field": [
+      "AI",
+      "ML"
+    ],
+    "ccf_rank": "None",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Elsevier",
+    "submission_mode": "rolling",
+    "website": "https://www.sciencedirect.com/journal/information-fusion",
+    "warning": "Unknown",
+    "note": "Not found in the referenced 2026 CCF directory; kept as a non-CCF journal sample."
+  },
+  {
+    "type": "journal",
+    "abbr": "PR",
+    "full_name": "Pattern Recognition",
+    "field": [
+      "CV",
+      "AI"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Elsevier",
+    "submission_mode": "rolling",
+    "website": "https://www.sciencedirect.com/journal/pattern-recognition",
+    "warning": "Unknown",
+    "note": "Pattern recognition journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "NN",
+    "full_name": "Neural Networks",
+    "field": [
+      "ML",
+      "AI"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Elsevier",
+    "submission_mode": "rolling",
+    "website": "https://www.sciencedirect.com/journal/neural-networks",
+    "warning": "Unknown",
+    "note": "Neural computation and learning journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "NEUCOM",
+    "full_name": "Neurocomputing",
+    "field": [
+      "ML",
+      "AI"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Elsevier",
+    "submission_mode": "rolling",
+    "website": "https://www.sciencedirect.com/journal/neurocomputing",
+    "warning": "Unknown",
+    "note": "Neural computing and machine learning journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "ESWA",
+    "full_name": "Expert Systems with Applications",
+    "field": [
+      "AI",
+      "DM"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Elsevier",
+    "submission_mode": "rolling",
+    "website": "https://www.sciencedirect.com/journal/expert-systems-with-applications",
+    "warning": "Unknown",
+    "note": "Applied AI and expert systems journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "TCYB",
+    "full_name": "IEEE Transactions on Cybernetics",
+    "field": [
+      "AI",
+      "Systems"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "IEEE",
+    "submission_mode": "rolling",
+    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036",
+    "warning": "Unknown",
+    "note": "Cybernetics and intelligent systems journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "TIST",
+    "full_name": "ACM Transactions on Intelligent Systems and Technology",
+    "field": [
+      "AI",
+      "ML"
+    ],
+    "ccf_rank": "C",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "ACM",
+    "submission_mode": "rolling",
+    "website": "https://dl.acm.org/journal/tist",
+    "warning": "Unknown",
+    "note": "Intelligent systems and technology journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "MLJ",
+    "full_name": "Machine Learning",
+    "field": [
+      "ML",
+      "AI"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Springer",
+    "submission_mode": "rolling",
+    "website": "https://link.springer.com/journal/10994",
+    "warning": "Unknown",
+    "note": "Machine learning journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "DMKD",
+    "full_name": "Data Mining and Knowledge Discovery",
+    "field": [
+      "DM",
+      "AI"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "Springer",
+    "submission_mode": "rolling",
+    "website": "https://link.springer.com/journal/10618",
+    "warning": "Unknown",
+    "note": "Data mining and knowledge discovery journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "TAFFC",
+    "full_name": "IEEE Transactions on Affective Computing",
+    "field": [
+      "AI",
+      "HCI"
+    ],
+    "ccf_rank": "B",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "IEEE",
+    "submission_mode": "rolling",
+    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369",
+    "warning": "Unknown",
+    "note": "Affective computing journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "TMM",
+    "full_name": "IEEE Transactions on Multimedia",
+    "field": [
+      "Multimedia",
+      "AI"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "IEEE",
+    "submission_mode": "rolling",
+    "website": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046",
+    "warning": "Unknown",
+    "note": "Multimedia systems and applications journal."
+  },
+  {
+    "type": "journal",
+    "abbr": "TOG",
+    "full_name": "ACM Transactions on Graphics",
+    "field": [
+      "Graphics",
+      "CV"
+    ],
+    "ccf_rank": "A",
+    "cas_partition": "Unknown",
+    "jcr_quartile": "Unknown",
+    "impact_factor": "TBD",
+    "publisher": "ACM",
+    "submission_mode": "rolling",
+    "website": "https://dl.acm.org/journal/tog",
+    "warning": "Unknown",
+    "note": "Graphics journal often relevant to vision and AI graphics work."
+  }
 ]

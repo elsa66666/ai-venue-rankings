@@ -30,7 +30,7 @@ The current version does not scrape websites automatically. Data is manually mai
 
 This repository does not guarantee the correctness of CCF ranking, CAS partition, JCR quartile, impact factor, deadlines, locations, or warning status. Ranking and partition information may change over time. Always verify information from official CCF, CAS, JCR, and venue websites before submission.
 
-Conference examples in this repository should be limited to CCF-listed conferences. Use `TBD` or `Unknown` when exact values are uncertain.
+CCF rankings are currently checked against the 2026 CCF directory mirror at `https://ccf.atom.im/`, with the official CCF page linked from that mirror. Conference examples in this repository should be limited to CCF-listed conferences. Use `TBD`, `Unknown`, or `None` when exact values are uncertain or a venue is not listed.
 
 ## Run Locally
 
